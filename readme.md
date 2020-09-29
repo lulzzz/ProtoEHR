@@ -6,6 +6,7 @@ The Orleans project of two parts the silo and the client, and both have to run t
 First, we have to download the required packages and build the project.
 
 >dotnet restore
+
 >dotnet build
 
 After that, it is possible to run the silo. It is done with the following command.
